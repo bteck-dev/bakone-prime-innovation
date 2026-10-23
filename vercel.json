@@ -8,7 +8,7 @@
   ],
   "headers": [
     {
-      "source": "/og-image.png",
+      "source": "/og-image.svg",
       "headers": [
         {
           "key": "Cache-Control",

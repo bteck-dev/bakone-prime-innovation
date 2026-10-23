@@ -4,7 +4,7 @@
  * Enables clean-URL section navigation for a single-page site.
  * - Clicking a nav link updates the URL (e.g. /services) without a reload
  * - Smooth-scrolls to the matching section id
- * - Handles direct loads (e.g. someone opens bakoneprimeinnovations.com/services)
+ * - Handles direct loads (e.g. someone opens www.bakoneprimeinnovations.com/services)
  * - Handles browser back/forward buttons
  */
 

@@ -186,7 +186,7 @@ export const projects: Project[] = [
     title: 'Bakone Prime Innovations',
     tagline: 'Corporate website and digital services showcase',
     desc: 'A responsive company website presenting Bakone Prime Innovations’ services, portfolio, process, and contact options in a custom navy and gold design.',
-    url: 'https://bakoneprimeinnovations.com/',
+    url: 'https://www.bakoneprimeinnovations.com/',
     image: portfolio4,
     category: 'Corporate Website',
     year: '2026',
