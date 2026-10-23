@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <defs>
+    <linearGradient id="gold" x1="120" y1="100" x2="1060" y2="560" gradientUnits="userSpaceOnUse"><stop stop-color="#E0C16A"/><stop offset="1" stop-color="#A77C22"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(590 300 -300 590 920 55)" gradientUnits="userSpaceOnUse"><stop stop-color="#253651" stop-opacity=".85"/><stop offset="1" stop-color="#101A2B" stop-opacity="0"/></radialGradient>
+  </defs>
+  <path fill="#101A2B" d="M0 0h1200v630H0z"/>
+  <path fill="url(#glow)" d="M0 0h1200v630H0z"/>
+  <g stroke="#D4B45F" stroke-opacity=".2" stroke-width="2"><path d="M0 500h180l36-36h110"/><path d="M1200 150h-120l-38 38H930"/><path d="M0 155h86l24 24h96"/><path d="M1200 490h-160l-30 30H880"/></g>
+  <g fill="#C9A64A" fill-opacity=".65"><circle cx="326" cy="464" r="4"/><circle cx="930" cy="188" r="4"/><circle cx="206" cy="179" r="4"/><circle cx="880" cy="520" r="4"/></g>
+  <g transform="translate(92 72)">
+    <path d="M46 4 84 26v44L46 92 8 70V26L46 4Z" fill="#F8F6EF"/>
+    <path d="M31 25h18c10 0 15 4 15 11 0 6-3 9-8 10 7 2 10 6 10 12 0 8-6 13-17 13H31V25Z" stroke="#101A2B" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M58 24h10c8 0 13 5 13 12 0 6-5 11-13 11H58M58 47h13c8 0 13 4 13 11s-5 12-14 12H58" stroke="url(#gold)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="110" y="49" fill="#F7F4EC" font-family="Arial, sans-serif" font-size="29" font-weight="700" letter-spacing="2">BAKONE <tspan fill="#D8B85A">PRIME</tspan></text>
+    <text x="112" y="77" fill="#C8D0DD" font-family="Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="6">I N N O V A T I O N S</text>
+  </g>
+  <rect x="92" y="197" width="276" height="38" rx="19" fill="#1A2940" stroke="#42516A"/>
+  <circle cx="114" cy="216" r="5" fill="#D8B85A"/>
+  <text x="130" y="221" fill="#E6D9B8" font-family="Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="1.5">YOUR TRUSTED TECHNOLOGY PARTNER</text>
+  <text x="92" y="317" fill="#F7F8FA" font-family="Arial, sans-serif" font-size="57" font-weight="700">Empowering Businesses</text>
+  <text x="92" y="382" fill="#F7F8FA" font-family="Arial, sans-serif" font-size="57" font-weight="700">Through <tspan fill="url(#gold)">Technology</tspan></text>
+  <text x="95" y="426" fill="#C6CEDA" font-family="Arial, sans-serif" font-size="19">At Bakone Prime Innovations, we help businesses grow, automate operations,</text>
+  <text x="95" y="454" fill="#C6CEDA" font-family="Arial, sans-serif" font-size="19">and establish a strong online presence with innovative digital solutions.</text>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <rect x="92" y="510" width="220" height="72" rx="16" fill="#17243A" stroke="#34435A"/><text x="202" y="542" fill="#D8B85A" font-size="24" font-weight="700">50+</text><text x="202" y="563" fill="#C6CEDA" font-size="13">Projects Delivered</text>
+    <rect x="328" y="510" width="220" height="72" rx="16" fill="#17243A" stroke="#34435A"/><text x="438" y="542" fill="#D8B85A" font-size="24" font-weight="700">30+</text><text x="438" y="563" fill="#C6CEDA" font-size="13">Happy Clients</text>
+    <rect x="564" y="510" width="220" height="72" rx="16" fill="#17243A" stroke="#34435A"/><text x="674" y="542" fill="#D8B85A" font-size="24" font-weight="700">5+</text><text x="674" y="563" fill="#C6CEDA" font-size="13">Years Experience</text>
+    <rect x="800" y="510" width="220" height="72" rx="16" fill="#17243A" stroke="#34435A"/><text x="910" y="542" fill="#D8B85A" font-size="24" font-weight="700">24/7</text><text x="910" y="563" fill="#C6CEDA" font-size="13">Support</text>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+{
+  "short_name": "Bakone Prime",
+  "name": "Bakone Prime Innovations | Software, Web & Mobile App Development",
+  "description": "Bakone Prime Innovations provides software, websites, mobile apps, e-commerce, hosting, business email, branding, and company registration services.",
+  "icons": [
+    {
+      "src": "bakone-prime-icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#101a2b",
+  "background_color": "#101a2b"
+}

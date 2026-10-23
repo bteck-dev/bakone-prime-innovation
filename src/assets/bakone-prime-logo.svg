@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 120" fill="none">
+  <title>Bakone Prime Innovations</title>
+  <defs><linearGradient id="gold" x1="10" y1="10" x2="104" y2="108" gradientUnits="userSpaceOnUse"><stop stop-color="#E0C16A"/><stop offset="1" stop-color="#A77C22"/></linearGradient></defs>
+  <path d="M57 7 103 33v54l-46 26L11 87V33L57 7Z" fill="#101A2B"/>
+  <path d="M38 35h22c12 0 18 5 18 14 0 7-4 11-10 13 8 2 12 7 12 14 0 10-7 16-20 16H38V35Z" stroke="#F7F4EC" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M71 34h13c10 0 16 6 16 15 0 8-6 14-16 14H71M71 63h16c10 0 16 5 16 14s-6 15-17 15H71" stroke="url(#gold)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m89 16 4-9 4 9 9 4-9 4-4 9-4-9-9-4 9-4Z" fill="url(#gold)"/>
+  <text x="128" y="57" fill="#101A2B" font-family="Inter, Arial, sans-serif" font-size="33" font-weight="750" letter-spacing="2.4">BAKONE <tspan fill="#A77C22">PRIME</tspan></text>
+  <path d="M129 72h392" stroke="#D8C9A5" stroke-width="1.5"/>
+  <text x="130" y="99" fill="#36445A" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="7.2">I N N O V A T I O N S</text>
+</svg>
